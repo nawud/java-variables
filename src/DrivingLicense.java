@@ -24,7 +24,7 @@ public class DrivingLicense {
         System.out.println("Han pasado 3 años y sigues sin cometer infracciones, ganas 2 puntos");
         // Actualiza los puntos aquí
 
-        System.out.println("¿Cuántos puntos tienes");
+        System.out.println("¿Cuántos puntos tienes?");
         // Imprimir el total de puntos que tienes actualmente
 
     }
