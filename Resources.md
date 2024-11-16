@@ -6,9 +6,7 @@ Java es orientado a objetos, por lo que tenemos que familiarizarnos con este par
 
 - class: contiene todo tu código. 
 - main(): es el punto de entrada de tu aplicación.
-- javac <file-name>.java: compila tu código.
-- java <file-name>: corre tu código compilado.
-- Cada vez que se hace un cambio en tu código, se debe compilar nuevamente.
+- IntelliJ gestiona automáticamente el proceso de compilación y las rutas de clases.
 - El ; es obligatorio.
 
 * ¿Cómo empezar?
