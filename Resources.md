@@ -62,15 +62,23 @@ https://www.w3schools.com/java/java_variables.asp
 
 ## Operadores aritméticos
 
-+ suma
-- resta
-* multiplicación
-/ división
-% módulo
-++ añadir 1
--- sustraer 1
-+= incrementa el valor por el número a la derecha
--= decrementa el valor por el número a la derecha
+* suma `+`
+  
+* resta `-`
+  
+* multiplicación `*`
+  
+* división `/`
+
+* módulo `%`
+
+* añadir 1 `++`
+
+* sustraer 1 `--`
+
+* incrementa el valor por el número a la derecha `+=`
+
+* decrementa el valor por el número a la derecha `-=`
 
 * Operadores
 https://www.w3schools.com/java/java_operators.asp
