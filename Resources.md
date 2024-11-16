@@ -114,10 +114,6 @@ https://www.w3schools.com/java/java_type_casting.asp
 - Las variables se escriben con lowerCamelCase.
 
 
-## Extensión de Java para VSC
-
-- Extension Pack for Java de Microsoft
-
 
 
 
