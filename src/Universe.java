@@ -5,7 +5,8 @@ public class Universe {
         //Intenta hacer una variable de tipo int con el valor de la población actual y mira el error.
 
         //Escribe aquí tu código
-
+        long poblacionMundial = 8_118_302_456L;
+        System.out.println("La población mundial es: " + poblacionMundial);
 
         //Para poder almacenar la población mundial tenemos que definir el tipo de dato long que almacena un valor de hasta 9 223 372 036 854 775 807 
         //Para ello define una variable de tipo long con ese valor
@@ -27,21 +28,27 @@ public class Universe {
 
 
         //Imprime el resultado final
-        System.out.println("La población mundial actual es de <population> habitantes.");
+        System.out.println("La población mundial actual es de "+poblacionMundial+ " habitantes.");
 
 
         //La vía láctea parece tener unos cuatrocientos mil millones de estrellas, crea una variable con esa cantidad.
 
         //Escribe aquí tu código
 
+                long estrellasViaLactea = 400_000_000_000L;
+
+
+                long estrellasAndromeda = 1_000_000_000_000L;
+
 
         //Andrómeda parece tener un billón de estrellas, crea una variable con esa cantidad.
 
         //Escribe aquí tu código
 
-
+         long totalEstrellas = estrellasViaLactea + estrellasAndromeda;
         //Corre este código y mira cuál es el problema
-        System.out.println("Hay <milkyWay> + <andromeda> de estrellas en Andrómeda y en la Vía Láctea juntas.");
+         System.out.println("Hay " + totalEstrellas + " estrellas en Andrómeda y en la Vía Láctea juntas.");
+    }
 
         //El problema es que está añadiendo el valor de milkyWay al String anterior, lo que convierte ese valor en String y cuando llega a andromeda también lo convierte a String y no puede hacer la operación matemática. Para dar prioridades de operaciones, usamos los paréntesis. 
 
@@ -50,4 +57,4 @@ public class Universe {
         
 
     }
-}
+
